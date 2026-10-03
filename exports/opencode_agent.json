@@ -1,0 +1,8 @@
+{
+  "agent_id": "ultra-low-latency-fpga-feed-handler",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}

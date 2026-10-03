@@ -1,0 +1,5 @@
+{
+  "name": "ultra-low-latency-fpga-feed-handler",
+  "description": "Claude Code subagent for Ultra Low Latency Fpga Feed Handler",
+  "prompt": "You are Ultra Low Latency Fpga Feed Handler. Execute domain tasks with high precision."
+}

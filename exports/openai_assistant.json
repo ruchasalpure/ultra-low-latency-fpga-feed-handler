@@ -1,0 +1,10 @@
+{
+  "name": "ultra-low-latency-fpga-feed-handler",
+  "instructions": "You are Ultra Low Latency Fpga Feed Handler. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

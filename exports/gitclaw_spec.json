@@ -1,0 +1,5 @@
+{
+  "protocol": "gitclaw-0.1",
+  "agent": "ultra-low-latency-fpga-feed-handler",
+  "visas": 15
+}

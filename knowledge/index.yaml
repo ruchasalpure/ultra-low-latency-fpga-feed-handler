@@ -1,0 +1,5 @@
+domain_knowledge:
+  category: "finance"
+  agent: "ultra-low-latency-fpga-feed-handler"
+  ontology: "OpenGAP Core Ontology v1.0"
+  indexed_entities: 1024
