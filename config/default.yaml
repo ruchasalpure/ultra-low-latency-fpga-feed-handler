@@ -1,6 +1,0 @@
-app:
-  name: "ultra-low-latency-fpga-feed-handler"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"

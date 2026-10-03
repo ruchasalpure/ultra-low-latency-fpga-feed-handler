@@ -1,5 +1,0 @@
-{
-  "name": "ultra-low-latency-fpga-feed-handler",
-  "service": "aws-kiro",
-  "version": "1.0.0"
-}
